@@ -2,12 +2,7 @@ tensorflow==2.5.0
 tensorflow_datasets
 numpy
 scipy
-pandas
-seaborn
 scikit-learn
-cython
-sympy
 statsmodels
 matplotlib
-yapf
 keras
