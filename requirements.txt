@@ -5,4 +5,4 @@ scipy
 scikit-learn
 statsmodels
 matplotlib
-keras
+keras == 2.4.0
