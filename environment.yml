@@ -13,4 +13,6 @@ dependencies:
   - dask
   - scipy
   - scikit-learn
+  - tensorflow
+  - tensorflow_datasets  
   - keras
