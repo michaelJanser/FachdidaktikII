@@ -10,5 +10,4 @@ sympy
 statsmodels
 matplotlib
 yapf
-torch
-torchvision
+keras
